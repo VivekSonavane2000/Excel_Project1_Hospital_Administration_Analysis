@@ -39,7 +39,6 @@ Advanced analytical work covering:
 Full project brief including the problem statement, data dictionary and complete set of questions.
 
 **Solution Guide**
-A structured explanation of answers across the Basic, Medium and Advanced levels, written in a clear and human-focused manner.
 
 ## **Key Insights from the Analysis**
 
